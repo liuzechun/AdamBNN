@@ -40,10 +40,10 @@ If you find our code useful for your research, please consider citing:
 
 ## Models
 
-| Methods | Top1-Acc | FLOPs | Trained Model |
+| Backbone | Methods | Top1-Acc | FLOPs | Trained Model |
 | --- | --- | --- | --- | 
-| ReActNet | 69.4% | 0.87 x 10^8 | [Model-ReAct](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EZAJ5OPNyKJColmmJPkD-ysBP2uozsXMzbbA9giOuS21TA?e=HnKOCs) | 
-| ReActNet with our training scheme| 70.5% | 0.87 x 10^8 | [Model-ReAct-AdamBNN-Training](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EXEsfAt42gNLqfzt09BMoTwBbYT6sxH5VkZ_9DmBWhJxXg?e=fd4f5v) |
+| ReActNet | original | 69.4% | 0.87 x 10^8 | [Model-ReAct](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EZAJ5OPNyKJColmmJPkD-ysBP2uozsXMzbbA9giOuS21TA?e=HnKOCs) | 
+| ReActNet | our AdamBNN | 70.5% | 0.87 x 10^8 | [Model-ReAct-AdamBNN-Training](https://hkustconnect-my.sharepoint.com/:u:/g/personal/zliubq_connect_ust_hk/EXEsfAt42gNLqfzt09BMoTwBbYT6sxH5VkZ_9DmBWhJxXg?e=fd4f5v) |
 
 ## Contact
 
