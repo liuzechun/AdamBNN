@@ -1,4 +1,4 @@
-# ReActNet
+# AdamBNN
 
 This is the pytorch implementation of our paper ["How Do Adam and Training Strategies Help BNNs Optimization?"](https://arxiv.org/abs/2106.11309), published in ICML 2021. 
 
